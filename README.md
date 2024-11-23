@@ -8,7 +8,7 @@ Nodejs, Express.js, Typescript, Sequalize, Postgresql
 
   `py createEnvFileForDB.py`
 
-    This scripts asks you some questions then this will create .env file in the format below.
+    This scripts asks you some questions then this will create **.env** file in the format below.
 
     ```
     DB_NAME=your_db_name 
