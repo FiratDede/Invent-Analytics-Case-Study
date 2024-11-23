@@ -23,3 +23,5 @@ Nodejs, Express.js, Typescript, Sequalize, Postgresql
   
   `npm run build` 
 
+## Author
+FIRAT DEDE

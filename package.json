@@ -7,7 +7,7 @@
     "dev": "npm install && nodemon src/app.ts",
     "build": "npm install && tsc && node ./dist/app.js"
   },
-  "author": "",
+  "author": "FIRAT DEDE",
   "license": "ISC",
   "dependencies": {
     "@types/express": "^5.0.0",
