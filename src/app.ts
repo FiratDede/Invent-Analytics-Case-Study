@@ -1,3 +1,7 @@
+/*
+    Invent Analytics Case Study Solution
+    Author: Fırat DEDE
+*/
 import express from "express";
 import userRouter from "./routers/userRouter"
 import bookRouter from "./routers/bookRouter"
