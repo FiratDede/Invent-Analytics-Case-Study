@@ -20,5 +20,6 @@ Nodejs, Express.js, Typescript, Sequalize, Postgresql
     Or you can write your **.env** file manually.
 
 * Now you can run express.js server by running the command below in root directory.
-`npm run build` 
+  
+  `npm run build` 
 
